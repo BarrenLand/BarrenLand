@@ -1,7 +1,7 @@
 - Hi, I’m Daniel Nurindra or @BarrenLand
 - As you can see, I'm a total newbie in this environment
 - I have high interest in web, game, and mobile programming
-- I’m currently learning Blender, Fuse, Vroid, Python, CI3 & CI4, and C++
+- I’m currently learning Blender, Unity, Python, and some other languages
 
 
 <!---
